@@ -2,6 +2,8 @@
 
 This is a simple Ruby and Sinatra app to allow you to run your ordering system (build with a coffeeshop in mind) from a Twilio SMS number.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/mplacona/SMSCoffeeShop)
+
 ## Features
 
 - SMS Receiver
