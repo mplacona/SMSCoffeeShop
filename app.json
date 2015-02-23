@@ -1,0 +1,26 @@
+{
+  "name": "SMSCoffeeShop",
+  "description": "A Twilio powered coffee shop",
+  "website": "https://github.com/mplacona/SMSCoffeeShop",
+  "success_url": "/",
+  "env": {
+    "TWILIO_ACCOUNT_SID": {
+            "description": "Your Twilio Account Id"
+    },
+    "TWILIO_AUTH_TOKEN": {
+            "description": "Your Twilio Account Token" 
+    },
+     "TWILIO_NUMBER": {
+            "description": "The number used by the aplication" 
+    },
+    "SUPERVISOR_NUMBER": {
+            "description": "Your number. In case anything go wrong, you'll get a text with the error"
+    },
+    "PUSHER_KEY": {
+            "description": "Your pusher key"
+    },
+    "PUSHER_URL": {
+            "description": "Your application URL provided by pusher"
+    }
+  }
+}
