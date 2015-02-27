@@ -4,7 +4,7 @@
   "website": "https://github.com/mplacona/SMSCoffeeShop",
   "success_url": "/",
   "env": {
-    "ENABLE_SMS": "YES"
+    "ENABLE_SMS": "YES",
     "TWILIO_ACCOUNT_SID": {
             "description": "Your Twilio Account Id"
     },
